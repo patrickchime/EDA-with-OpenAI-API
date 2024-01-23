@@ -1,7 +1,7 @@
 # Exploratory Data Analysis with OpenAI API
 
 ## Introduction
-Artificial Intelligence is disrupting the way people do work now. OpenAI is one of the leading AI organizations which rolled out an LLM called ChatGPT that accepts natural language as a prompt and gives response based on the user prompt. 
+Artificial Intelligence is disrupting the way people do work now. OpenAI is one of the leading AI organizations which rolled out an LLM called GPT that accepts natural language as a prompt and gives response based on the user prompt. 
 
 Data science is a field that that will be highly impacted by this AI wave. There are many ways in which AI can be helpful in data analysis workflow. By leveraging AI, data analysts can streamline their workflows, gain deeper insights, and make more informed decisions based on the data at hand.
 
